@@ -1,0 +1,38 @@
+= DevCntr Organization (devcntr-org)
+
+Welcome to the DevCntr organization. We focus on enhancing developer workflow, learning, and human-in-the-loop development.
+
+== 🚀 Key Destinations
+
+* **Landing Page:** link:https://devcntr.org[devcntr.org]
+* **App Homepage:** link:https://devcntr.app[devcntr.app]
+* **Documentation:** link:https://docs.devcntr.app[docs.devcntr.app]
+
+== 📦 Repository Groupings
+
+=== 🏆 Main
+
+* **link:https://github.com/devcntr-org/devcntr[devcntr]:** The core Dev Center application for Windows, macOS, and Linux.
+
+=== 🧩 Core
+
+* **link:https://github.com/devcntr-org/devcntr.app[devcntr.app]:** The application homepage and web presence.
+* **link:https://github.com/devcntr-org/docs[docs]:** Centralized documentation site built with Antora.
+* **link:https://github.com/devcntr-org/templates[templates]:** Golden paths and project templates.
+
+=== 🛠️ Ancillary & Tools
+
+* **link:https://github.com/devcntr-org/msi-generator[msi-generator]:** Windows installer generation tools.
+* **link:https://github.com/devcntr-org/json5-d[json5-d]:** JSON5 parser for the D programming language.
+* **link:https://github.com/devcntr-org/asciidoctor-d[asciidoctor-d]:** AsciiDoc processing in D.
+
+=== 🍴 Forks & Upstream
+
+We maintain optimized forks of critical development tools:
+
+* **link:https://github.com/devcntr-org/antora-dark-theme[antora-dark-theme]:** Custom dark theme for Antora documentation.
+* **link:https://github.com/devcntr-org/dprint-plugin-asciidoc[dprint-plugin-asciidoc]:** AsciiDoc formatting support.
+
+---
+
+*This profile is visible to both public visitors and organization members.*
