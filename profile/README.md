@@ -1,6 +1,31 @@
-# DevCntr (Dev Center)
+# DevCntr Organization (devcntr-org)
 
-DevCntr is an organization centered around enhancing developer workflow, learning, and human-in-the-loop development of software. Our Dev Center app helps developers manage, organize, and analyze the entire software engineering process, including software repositories, local machine setup and management, template files for best practices and up-to-date knowledge about developer tooling, and contextually relevant in-app educational workflows for orientation and onboarding.
+Welcome to the DevCntr organization. We focus on enhancing developer workflow, learning, and human-in-the-loop development.
 
-App repo: [dev-center](https://github.com/devcntr-org/dev-center)
-Docs are spread out across repositories and integrated via the [docs](https://github.com/devcntr-org/docs) repository into a final site at docs.devcntr.org
+## 🚀 Key Destinations
+- **Landing Page:** [devcntr.org](https://devcntr.org)
+- **App Homepage:** [devcntr.app](https://devcntr.app)
+- **Documentation:** [docs.devcntr.app](https://docs.devcntr.app)
+
+## 📦 Repository Groupings
+
+### 🏆 Main
+- **[devcntr](https://github.com/devcntr-org/devcntr):** The core Dev Center application for Windows, macOS, and Linux.
+
+### 🧩 Core
+- **[devcntr.app](https://github.com/devcntr-org/devcntr.app):** The application homepage and web presence.
+- **[docs](https://github.com/devcntr-org/docs):** Centralized documentation site built with Antora.
+- **[templates](https://github.com/devcntr-org/templates):** Golden paths and project templates.
+
+### 🛠️ Ancillary & Tools
+- **[msi-generator](https://github.com/devcntr-org/msi-generator):** Windows installer generation tools.
+- **[json5-d](https://github.com/devcntr-org/json5-d):** JSON5 parser for the D programming language.
+- **[asciidoctor-d](https://github.com/devcntr-org/asciidoctor-d):** AsciiDoc processing in D.
+
+### 🍴 Forks & Upstream
+We maintain optimized forks of critical development tools:
+- **[antora-dark-theme](https://github.com/devcntr-org/antora-dark-theme):** Custom dark theme for Antora documentation.
+- **[dprint-plugin-asciidoc](https://github.com/devcntr-org/dprint-plugin-asciidoc):** AsciiDoc formatting support.
+
+---
+*This profile is visible to both public visitors and organization members.*
