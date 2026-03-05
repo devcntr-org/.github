@@ -1,76 +1,49 @@
 = DevCentr.org
 
-Dev-Centr is an organization dedicated to fundamentally improving developer productivity and workflow for pure human development and human-in-the-loop AI vibe-coding. Our flagship project, **DevCentr**, is a **Development Orchestration Suite (DOS)**—a layer above the code that manages the complexity of the modern developer's world by treating development as an integrated ecosystem rather than just a series of text files.
+Dev-Centr is an organization dedicated to improving developer productivity and workflow for pure human development and human-in-the-loop AI vibe-coding. We provide a comprehensive integrated development environment (IDE) called DevCentr that can manage and visualize your software projects and repositories and install, configure, and manage developer tools and coding environments, while providing a learning path for best practices and reproducible configurations.
 
-== 🌐 Links
+== 🚀 Key Destinations
 
-image:https://img.shields.io/badge/Organization-devcentr.org-4C1111?style=for-the-badge&logo=github&logoColor=white[link="https://devcentr.org"]
-image:https://img.shields.io/badge/Application-devcentr.app-1F425F?style=for-the-badge&logo=pwa&logoColor=white[link="https://devcentr.app"]
-image:https://img.shields.io/badge/Documentation-docs-FF6F00?style=for-the-badge&logo=asciidoctor&logoColor=white[link="https://docs.devcentr.org"]
+* **Landing Page:** link:https://devcentr.org[devcentr.org]
+* **App Homepage:** link:https://devcentr.app[devcentr.app]
+* **Documentation:** link:https://docs.devcentr.org[docs.devcentr.org]
 
-== 🛰️ The Development Orchestration Suite (DOS)
+== Sister Organizations
 
-While traditional IDEs focus on the editor, DevCentr focuses on the **Orchestration** of the entire lifecycle. As a DOS, it is designed for:
+We make significant contributions to various projects, so this is where we put our contributions:
 
-*   **Ecosystem Management:** Author and version your entire environment—shells, toolchains, and infrastructure—as first-class citizens.
-*   **Visual DevEx:** A "Live Blueprint" approach that visually models project architecture, moving beyond simple file trees into system design.
-*   **AI Vibe-Coding Synergy:** A hub that provides the deep contextual metadata necessary for human-in-the-loop AI coding to be truly effective.
+* **link:https://github.com/dlang-supplemental[dlang-supplemental]:** A collection of D-lang libraries and tools for various purposes.
+* **link:https://github.com/asciidoc-supplemental[asciidoc-supplemental]:** A collection of AsciiDoc tools and utilities.
 
-DevCentr is an open, extension-based platform for pure human development and emergent AI-assisted workflows. For detailed technical specifications, repository features, and VCS support, please refer to the link:https://github.com/dev-centr/devcentr[DevCentr App README].
+== 📦 Repository Groupings
 
-== 📦 Repositories
+=== 🏆 Main
 
-[cols="1,2,3", options="header"]
-|===
-| Group | Repository | Description
+* **link:https://github.com/dev-centr/devcentr[devcentr]:** The core Dev Center application for Windows, macOS, and Linux.
 
-.2+| **🏆 Core**
-| link:https://github.com/dev-centr/devcentr[devcentr]
-| The flagship Development Orchestration Suite (DOS) application.
-| link:https://github.com/dev-centr/templates[templates]
-| Golden paths, project blueprints, and ecosystem templates.
+=== 🧩 Core
 
-.3+| **🌐 Websites**
-| link:https://github.com/dev-centr/devcentr.app[devcentr.app]
-| The product homepage and primary landing page for DevCentr.
-| link:https://github.com/dev-centr/devcentr.org[devcentr.org]
-| The organization hub and DOS movement laboratory.
-| link:https://github.com/dev-centr/docs[docs]
-| Centralized documentation site built with Antora.
-|===
+* **link:https://github.com/dev-centr/devcentr.app[devcentr.app]:** The application homepage and web presence.
+* **link:https://github.com/dev-centr/docs[docs]:** Centralized documentation site built with Antora.
+* **link:https://github.com/dev-centr/templates[templates]:** Golden paths and project templates.
 
-=== ➕ Ancillary & Support
-Beyond the core DOS, we maintain an ecosystem of optimized libraries and support tools designed to ensure a seamless and robust development experience across all platforms.
+=== 🛠️ Ancillary & Tools
 
-.View Supporting Repositories
-[%collapsible]
-====
-[cols="1,2", options="header"]
-|===
-| Repository | Description
+* **link:https://github.com/dev-centr/msi-installer-generator[msi-installer-generator]:** A cross-platform MSI/MSIX generator in D-lang.
+* **link:https://github.com/dev-centr/open-folder-with-cursor[open-folder-with-cursor]:** Shell extension to open folders with Cursor IDE in Windows.
+* **link:https://github.com/dev-centr/github-actions-editor[github-actions-editor]:** A visual editor for GitHub Actions.
+* **link:https://github.com/dev-centr/nvm-passthru[nvm-passthru]:** Node version manager passthrough utility.
+* **link:https://github.com/dev-centr/antigravity-auto-accept-commands[antigravity-auto-accept-commands]:** Automation for AI agent command approvals.
 
-| link:https://github.com/dev-centr/msi-installer-generator[msi-installer-generator]
-| Windows installer generation tools.
+=== 🍴 Forks & Upstream
 
-| link:https://github.com/dlang-supplemental/json5-dlang[json5-dlang]
-| JSON5 parser for the D programming language.
-
-| link:https://github.com/dlang-supplemental/asciidoctor-dlang[asciidoctor-dlang]
-| AsciiDoc processing in D.
-
-| link:https://github.com/asciidoc-supplemental/antora-dark-theme[antora-dark-theme]
-| Custom dark theme for Antora documentation.
-
-| link:https://github.com/asciidoc-supplemental/dprint-plugin-asciidoc[dprint-plugin-asciidoc]
-| AsciiDoc formatting support.
-|===
-====
-
-
+* **link:https://github.com/dev-centr/node[node]:** The Node.js JavaScript runtime.
+* **link:https://github.com/dev-centr/dprint[dprint]:** A pluggable and configurable code formatting platform.
+* **link:https://github.com/dev-centr/dprint-vscode[dprint-vscode]:** VS Code extension for dprint.
+* **link:https://github.com/dev-centr/nvm-windows[nvm-windows]:** Node.js version management for Windows.
+* **link:https://github.com/dev-centr/nvm[nvm]:** Node.js version management for POSIX systems.
 
 ---
 
-*This profile is visible to both public visitors and organization members.*
-
-
+*This profile is visible to public visitors.*
 
