@@ -57,7 +57,3 @@ We make significant contributions to various projects, so this is where we put o
 * **link:https://github.com/dev-centr/nvm-windows[nvm-windows]:** Node.js version management for Windows.
 * **link:https://github.com/dev-centr/nvm[nvm]:** Node.js version management for POSIX systems.
 
----
-
-*This profile is visible to public visitors.*
-
