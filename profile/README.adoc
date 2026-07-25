@@ -8,9 +8,9 @@ Dev-Centr is an organization dedicated to improving developer productivity and w
 
 Org-wide mark lives in this `profile/` folder (canonical for the GitHub org):
 
-* `logo.svg` — transparent SVG (prefer this in docs/READMEs)
-* `logo-on-dark.svg` — rounded tile for dark backgrounds
-* `logo.png` / `logo-256.png` — rasters; upload `logo-256.png` via GitHub → Organization settings → Profile
+* `logo.svg` / `logo.png` / `logo-256.png` — transparent mark
+* `logo-on-dark.svg` / `logo-on-dark.png` / `logo-on-dark-256.png` — rounded tile for dark backgrounds
+* Upload `logo-on-dark-256.png` via GitHub → Organization settings → Profile
 
 The marketing site mirrors these under link:https://github.com/dev-centr/devcentr.org[devcentr.org] `public/brand/`.
 
