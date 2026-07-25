@@ -10,6 +10,8 @@ Org-wide mark lives in this `profile/` folder (canonical for the GitHub org):
 
 * `logo.svg` / `logo.png` / `logo-256.png` — transparent mark
 * `logo-on-dark.svg` / `logo-on-dark.png` / `logo-on-dark-256.png` — rounded tile for dark backgrounds
+* `logo-motion.svg` — self-contained animated SVG (no player)
+* `logo.riv` — interactive twin (Rive; see `README-brand.adoc` authoring checklist)
 * Upload `logo-on-dark-256.png` via GitHub → Organization settings → Profile
 
 The marketing site mirrors these under link:https://github.com/dev-centr/devcentr.org[devcentr.org] `public/brand/`.
