@@ -1,8 +1,18 @@
 = DevCentr.org
 
+image::logo.svg[DevCentr,128]
+
 Dev-Centr is an organization dedicated to improving developer productivity and workflow for pure human development and human-in-the-loop AI vibe-coding. We provide a comprehensive integrated development environment (IDE) called DevCentr that can manage and visualize your software projects and repositories and install, configure, and manage developer tools and coding environments, while providing a learning path for best practices and reproducible configurations.
 
-Org avatar: upload `logo-256.png` (in this folder) via GitHub → Organization settings → Profile. Master brand assets also live in the link:https://github.com/dev-centr/devcentr.org[devcentr.org] repo under `public/brand/`.
+== Brand
+
+Org-wide mark lives in this `profile/` folder (canonical for the GitHub org):
+
+* `logo.svg` — transparent SVG (prefer this in docs/READMEs)
+* `logo-on-dark.svg` — rounded tile for dark backgrounds
+* `logo.png` / `logo-256.png` — rasters; upload `logo-256.png` via GitHub → Organization settings → Profile
+
+The marketing site mirrors these under link:https://github.com/dev-centr/devcentr.org[devcentr.org] `public/brand/`.
 
 == 🚀 Key Destinations
 
